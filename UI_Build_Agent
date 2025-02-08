@@ -1,0 +1,5 @@
+// Upload an image of UI or specify details in prompt or both 
+
+// image is passed to VLM to get textual output for detailed explanation of UI elements, principles, components, sub components details and primary , secondary colors used.
+
+// Passing those details to Robust LLM to get Html5 Dashboard easily.
